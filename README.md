@@ -8,7 +8,7 @@ Airflow Version: 2.1.0
 Airflow user: admin
 Password: <update entrypoint.sh>
 
-  To run airflow-basic framework 
-  `docker-compose up -d`
+To run airflow-basic framework 
+`docker-compose up -d`
   
-  -d to run as a daemon process.
+ -d to run as a daemon process.
